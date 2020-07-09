@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Text;
 
 namespace Texas_Hold_em_Poker
@@ -16,8 +17,6 @@ namespace Texas_Hold_em_Poker
         {
             listOfCards = AddCards();
             this.rand = rand;
-
-            AddCards();
             ShuffleDeck();
         }
 
@@ -31,7 +30,7 @@ namespace Texas_Hold_em_Poker
                 //For each value
                 for(int j = 0; j < Enum.GetNames(typeof(Card.Values)).Length; j++)
                 {
-                    tempList.Add(new Card((Card.Values)j, (Card.Suits)j));
+                    tempList.Add(new Card((Card.Values)j, (Card.Suits)i));
                 }
             }
             return tempList;
@@ -53,6 +52,7 @@ namespace Texas_Hold_em_Poker
                 //Removed that card from the old list
                 listOfCards.RemoveAt(index);
             }
+            listOfCards = newlist;
         }
 
         //Deals the first card of the deck
@@ -61,6 +61,17 @@ namespace Texas_Hold_em_Poker
             Card c = listOfCards[0];
             listOfCards.RemoveAt(0);
             return c;
+        }
+
+        //Prints the contents of the deck to the console
+        public override string ToString()
+        {
+            string s = "";
+            for(int i = 0; i < listOfCards.Count; i++)
+            {
+                s += listOfCards[i].ToString() + "\n";
+            }
+            return s;
         }
     }
 }

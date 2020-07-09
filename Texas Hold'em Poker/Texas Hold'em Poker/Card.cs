@@ -34,5 +34,11 @@ namespace Texas_Hold_em_Poker
         {
             get { return value; }
         }
+
+        //Prints what the card is
+        public override string ToString()
+        {
+            return value + " of " + suit;
+        }
     }
 }

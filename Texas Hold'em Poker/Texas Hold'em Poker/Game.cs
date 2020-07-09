@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Text;
 
 namespace Texas_Hold_em_Poker
@@ -20,6 +21,8 @@ namespace Texas_Hold_em_Poker
             listOfPlayers = new List<Player>();
             deck = new Deck(rand);
             tabledCards = new List<Card>();
+
+            Debug.WriteLine(deck.ToString());
         }
     }
 }

@@ -1,0 +1,15 @@
+D:\Stuff\Poker\Texas-Hold-em-Poker\Texas Hold'em Poker\Texas Hold'em Poker\bin\Debug\netcoreapp3.0\Texas Hold'em Poker.exe
+D:\Stuff\Poker\Texas-Hold-em-Poker\Texas Hold'em Poker\Texas Hold'em Poker\bin\Debug\netcoreapp3.0\Texas Hold'em Poker.deps.json
+D:\Stuff\Poker\Texas-Hold-em-Poker\Texas Hold'em Poker\Texas Hold'em Poker\bin\Debug\netcoreapp3.0\Texas Hold'em Poker.runtimeconfig.json
+D:\Stuff\Poker\Texas-Hold-em-Poker\Texas Hold'em Poker\Texas Hold'em Poker\bin\Debug\netcoreapp3.0\Texas Hold'em Poker.runtimeconfig.dev.json
+D:\Stuff\Poker\Texas-Hold-em-Poker\Texas Hold'em Poker\Texas Hold'em Poker\bin\Debug\netcoreapp3.0\Texas Hold'em Poker.dll
+D:\Stuff\Poker\Texas-Hold-em-Poker\Texas Hold'em Poker\Texas Hold'em Poker\bin\Debug\netcoreapp3.0\Texas Hold'em Poker.pdb
+D:\Stuff\Poker\Texas-Hold-em-Poker\Texas Hold'em Poker\Texas Hold'em Poker\obj\Debug\netcoreapp3.0\Texas Hold'em Poker.csprojAssemblyReference.cache
+D:\Stuff\Poker\Texas-Hold-em-Poker\Texas Hold'em Poker\Texas Hold'em Poker\obj\Debug\netcoreapp3.0\Texas Hold'em Poker.AssemblyInfoInputs.cache
+D:\Stuff\Poker\Texas-Hold-em-Poker\Texas Hold'em Poker\Texas Hold'em Poker\obj\Debug\netcoreapp3.0\Texas Hold'em Poker.AssemblyInfo.cs
+D:\Stuff\Poker\Texas-Hold-em-Poker\Texas Hold'em Poker\Texas Hold'em Poker\obj\Debug\netcoreapp3.0\Texas Hold'em Poker.csproj.CoreCompileInputs.cache
+D:\Stuff\Poker\Texas-Hold-em-Poker\Texas Hold'em Poker\Texas Hold'em Poker\obj\Debug\netcoreapp3.0\Texas Hold'em Poker.dll
+D:\Stuff\Poker\Texas-Hold-em-Poker\Texas Hold'em Poker\Texas Hold'em Poker\obj\Debug\netcoreapp3.0\Texas Hold'em Poker.pdb
+D:\Stuff\Poker\Texas-Hold-em-Poker\Texas Hold'em Poker\Texas Hold'em Poker\obj\Debug\netcoreapp3.0\Texas Hold'em Poker.genruntimeconfig.cache
+D:\Stuff\Poker\Texas-Hold-em-Poker\Texas Hold'em Poker\Texas Hold'em Poker\obj\Debug\netcoreapp3.0\Texas_Hold_em_Poker.Form1.resources
+D:\Stuff\Poker\Texas-Hold-em-Poker\Texas Hold'em Poker\Texas Hold'em Poker\obj\Debug\netcoreapp3.0\Texas Hold'em Poker.csproj.GenerateResource.cache

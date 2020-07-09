@@ -15,6 +15,7 @@ namespace Texas_Hold_em_Poker
         public Form1()
         {
             InitializeComponent();
+            Game game = new Game(new Random());
         }
 
     }
